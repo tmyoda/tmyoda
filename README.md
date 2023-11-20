@@ -1,7 +1,7 @@
 **OSS contributions**
 
 - [dynein](https://github.com/awslabs/dynein) (DynamoDB CLI written in Rust) as a member of the maintainer, [Contributions](https://github.com/pulls?q=involves%3Atmyoda+org%3Aawslabs+repo%3Adynein)
-- [aws-cdk](https://github.com/aws/aws-cdk) (AWS Cloud Development Kit (AWS CDK)), [Contributions](https://github.com/pulls?q=involves%3Atmyoda+org%3Aawslabs+repo%3Adynein](https://github.com/pulls?q=involves%3Atmyoda+repo%3Aaws%2Faws-cdk))
+- [aws-cdk](https://github.com/aws/aws-cdk) (AWS Cloud Development Kit (AWS CDK)), [Contributions](https://github.com/pulls?q=involves%3Atmyoda+repo%3Aaws%2Faws-cdk)
 
 
 **Kaggle competitions**
